@@ -3,6 +3,8 @@
 Yong XIANG, Jinghong QIU, Ruoyu ZHANG, Carlos Kwan-Long CHAU, Shitao RAO, Hon-Cheong SO
 
 Abstract
+
+
 Background 
 More than 170 million cases of COVID-19 have been reported worldwide. It has been proposed that psychiatric disorders may be risk factors and/or consequences of COVID-19 infection. However, observational studies could be affected by confounding bias. 
 
