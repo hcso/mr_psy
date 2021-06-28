@@ -1,4 +1,4 @@
-#Neuropsychiatric disorders as risk factors and consequences of COVID-19: A Mendelian randomization study
+**Neuropsychiatric disorders as risk factors and consequences of COVID-19: A Mendelian randomization study**
 
 Yong XIANG, Jinghong QIU, Ruoyu ZHANG, Carlos Kwan-Long CHAU, Shitao RAO, Hon-Cheong SO
 
